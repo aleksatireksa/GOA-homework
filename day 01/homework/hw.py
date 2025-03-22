@@ -1,3 +1,5 @@
-name = 'aleqsandre'
-surname = 'ubriaia'
-print(name, surname)
+"name"("aleksandre")
+"surname"("ubiria")
+"age"(13)
+"height"(188)
+print("name"+ "" + "surname"+"age"+"height")
