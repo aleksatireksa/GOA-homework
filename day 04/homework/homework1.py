@@ -1,4 +1,4 @@
-weight=75
+weight=80
 
 age=14
 height=189
